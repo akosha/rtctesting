@@ -1,4 +1,4 @@
-package org.bin2.goose.websocket;
+package org.bin2.testing.websocket;
 
 import com.google.common.collect.Maps;
 import com.google.gson.Gson;

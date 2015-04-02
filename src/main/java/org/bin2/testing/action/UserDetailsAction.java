@@ -1,4 +1,4 @@
-package org.bin2.goose.action;
+package org.bin2.testing.action;
 
 import org.slf4j.LoggerFactory;
 import org.springframework.security.core.context.SecurityContext;

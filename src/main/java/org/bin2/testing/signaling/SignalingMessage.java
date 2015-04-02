@@ -1,4 +1,4 @@
-package org.bin2.goose.signaling;
+package org.bin2.testing.signaling;
 
 /**
  * Created by psimic on 3/25/2015.

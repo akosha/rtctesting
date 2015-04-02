@@ -1,4 +1,4 @@
-package org.bin2.goose;
+package org.bin2.testing;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

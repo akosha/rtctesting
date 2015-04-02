@@ -1,4 +1,4 @@
-package org.bin2.goose.signaling;
+package org.bin2.testing.signaling;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.Lists;
